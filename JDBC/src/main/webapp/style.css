@@ -1,0 +1,24 @@
+.selecto {
+    width: 230px;
+}
+
+.aranjare {
+    padding-left: 5%;
+    width: 100%;
+
+}
+
+.aranjare1 {
+    width: 27%;
+    float: left;
+}
+
+.buton {
+    width: 100%;
+}
+
+.aranjare2 {
+    width: 68%;
+    position: relative;
+    float: left;
+}
